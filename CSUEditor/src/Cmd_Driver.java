@@ -12,7 +12,7 @@ public class Cmd_Driver
 *  DESC:  Contains the member functions for the Cmd_Driver Class.           *
 *                                                                           *
 ****************************************************************************/
-{  // driver test dd
+{  // driver tes
    private final boolean UPDATE_FILE = true;
 
    int Margin_Left, Margin_Right; // Used by M, F, R, O Cmds.
